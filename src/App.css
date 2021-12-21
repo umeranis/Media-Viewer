@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.noColor {
+  background-color: white !important;
+  color: black !important;
+}
+
+
+.row {
+  margin-top: 50px;
+}
+
+.css-1nrlq1o-MuiFormControl-root {
+  margin-top: -20px !important;
+}
+
+.hy {
+  cursor: pointer;
+  color: orange;
+  margin-left: 5px;
+  font-size: 15px;
+}
+.hy:hover {
+  color: red;
+}
+
+
+
